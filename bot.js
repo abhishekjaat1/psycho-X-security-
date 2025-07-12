@@ -212,4 +212,4 @@ client.on('webhookUpdate', async (channel) => {
     }
 });
 
-client.login(process.env.TOKEN);
+client.login("MTM5MTQyNTkyMzQ5NjI4NDE4MA.Gn_Bfv.8ZlI1dT7XNKCI1O-yXCyw7J-CUX6F7UCxM7-hQ");
